@@ -1,0 +1,107 @@
+body{
+    background-color: black;
+    width: 100%;
+}
+.abhi{
+    color: white;
+    font-size: large;
+    font-family: "Dancing Script", cursive;
+    font-weight:bolder;
+    margin-left: 400px;
+    margin-bottom: 30px;
+    padding-bottom: 40px;
+    display: inline-block;
+    
+    
+    
+
+}
+
+
+
+
+.img1{
+    
+    width: 20px;
+    height: 20px;
+    border-top-left-radius: 15mm;
+    border-bottom-left-radius: 15mm;
+    border-bottom-right-radius: 15mm;
+    border-top-right-radius: 15mm;
+    text-align: left;
+    column-gap: 5px;
+    margin-left: 20px;
+    vertical-align: top;
+    margin-bottom: 20px;
+    border-color: purple;
+    border-style:solid;
+    margin-left: 3px;
+    align-items: center;
+    
+
+}
+.abho{
+    margin-left: 300px;
+    padding: oem 1 em oem 1em;
+}
+
+
+.spy{
+    margin-left: 500px;
+
+}
+.san{
+    margin-left: 30px;
+}
+
+
+.img{
+    width: 80px;
+    height: 80px;
+    border-top-left-radius: 15mm;
+    border-bottom-left-radius: 15mm;
+    border-bottom-right-radius: 15mm;
+    border-top-right-radius: 15mm;
+    text-align: left;
+    margin-bottom: 5px;
+    border-color: purple;
+    border-style:solid;
+    margin-left: 1px;
+    overflow-x: auto;
+    gap: o.5rem;
+}
+.a1{
+    width: 100%;
+}
+    
+ p{   
+    
+    display: inline;
+    padding: 2px;
+    margin-left: 2px;
+    word-spacing: 2px;
+    gap: 0.5rem;
+    
+}
+
+
+
+.post{
+    width: 10px;
+    height: 40px;
+    text-align: center;
+    align-items: center;
+}
+.spa{
+    margin-right: 300px;
+    font-size: larger;
+    width: 40px;
+}
+.span{
+    display: inline;
+    width: 140px;
+}
+.love{
+    width: 100%;
+    margin-bottom: 200rem;
+}
